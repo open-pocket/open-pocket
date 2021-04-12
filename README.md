@@ -31,7 +31,7 @@ The purpose of the Open Pocket organization is to gather those who are intereste
 ## How to Help
 
 * Star and Watch this repo to follow the latest updates.
-* If you have thoughts on how to help build Open Pocket, create an issue to help find others to work with.
+* If you have thoughts on how to help build Open Pocket, create an issue or [discussion topic](https://github.com/open-pocket/open-pocket/discussions) to help find others to work with.
 * If you've already started building something, consider joining forces with the Open Pocket organization.
 
 ## Legal
