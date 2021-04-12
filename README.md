@@ -34,6 +34,22 @@ The purpose of the Open Pocket organization is to gather those who are intereste
 * If you have thoughts on how to help build Open Pocket, create an issue or [discussion topic](https://github.com/open-pocket/open-pocket/discussions) to help find others to work with.
 * If you've already started building something, consider joining forces with the Open Pocket organization.
 
+## Available Projects
+
+The following projects have already been open-sourced. (This list excludes infrastructure projects, and those not updated in the past 5 years).
+
+* https://github.com/mozmeao/pocket-marketing-pages marketing pages for [getpocket.com](https://getpocket.com)
+* https://github.com/Pocket/apollo-utils Utilities for Apollo gateway and implementing services
+* https://github.com/Pocket/cloudwatch-metrics-aggregator nodejs lib to easily aggregate and process cloudwatch metrics in the background
+* https://github.com/Pocket/curation-tools-frontend
+* https://github.com/Pocket/extension-pocket-new-tab Pocket New Tab is a browser extension that serves as a replacement to the default new tab.
+* https://github.com/Pocket/extension-save-to-pocket Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
+* https://github.com/Pocket/Firefox-Integration-Add-On-Prototype
+* https://github.com/Pocket/front-end-build-tools Modified Create React App for use with Pocket extensions
+* https://github.com/Pocket/pocket-ff-addon
+* https://github.com/Pocket/proxy-server Service to deliver sponsored content while preserving privacy
+* https://github.com/Pocket/recommendation-api Rank and serve recommendations
+
 ## Legal
 
 * Any open source code should follow Pocket's [branding guidance](https://getpocket.com/developer/docs/branding).
