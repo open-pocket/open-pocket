@@ -54,6 +54,7 @@ The following projects have already been open-sourced. (This list excludes infra
 
 * Any open source code should follow Pocket's [branding guidance](https://getpocket.com/developer/docs/branding).
 * It is not yet known if Pocket/Mozilla hold any patents on Pocket behaviour.
+* [Pocket is a registered trademark](https://news.ycombinator.com/item?id=9520668)
 
 ## Background
 
