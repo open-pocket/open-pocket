@@ -64,7 +64,7 @@ For full transparency, I am also building a commercial product relating to Pocke
 
 ## Related and Similar Projects
 
-* https://github.com/wallabag/wallabag
+* https://github.com/wallabag/wallabag (formerly known as Poche)
 * https://github.com/ArchiveBox/ArchiveBox
 * https://github.com/cleverdevil/indiepaper (no updates since 2018)
 * https://github.com/zhy0216/OhMyPocket (no updates since 2016)
