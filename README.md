@@ -65,8 +65,9 @@ For full transparency, I am also building a commercial product relating to Pocke
 
 ## Related and Similar Projects
 
-* https://github.com/wallabag/wallabag (formerly known as Poche)
-* https://github.com/ArchiveBox/ArchiveBox
-* https://github.com/cleverdevil/indiepaper (no updates since 2018)
-* https://github.com/zhy0216/OhMyPocket (no updates since 2016)
-* https://github.com/kavinderd/icebox (no updates since 2015)
+* https://github.com/wallabag/wallabag (PHP) (formerly known as Poche)
+* https://github.com/ArchiveBox/ArchiveBox (Python)
+* https://github.com/go-shiori/shiori (Go) (no updates since 2020)
+* https://github.com/cleverdevil/indiepaper (Python) (no updates since 2018)
+* https://github.com/zhy0216/OhMyPocket (Python) (no updates since 2016)
+* https://github.com/kavinderd/icebox (Ruby) (no updates since 2015)
