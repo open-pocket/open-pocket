@@ -8,7 +8,7 @@ In February 2017, Mozilla [acquired Pocket](https://blog.mozilla.org/blog/2017/0
 
 A [ticket](https://bugzilla.mozilla.org/show_bug.cgi?id=1343006) to open source the code was opened the same day, but closed in 2018.
 
-It's now over four years since that promise, and although some code has been https://github.com/Pocket, the majority remans closed, including the core server and client applications.
+It's now over four years since that promise, and although some code has been shared on https://github.com/Pocket, the majority remains closed, including the core server and client applications.
 
 There have been [continued requests](https://discourse.mozilla.org/t/pocket-source-code/43686/7) for Mozilla to open source the code. The most recent public responses on this, from Pocket CEO [Matt Koidon](https://twitter.com/mkoidin?lang=en), were:
 
