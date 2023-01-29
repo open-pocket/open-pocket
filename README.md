@@ -64,7 +64,7 @@ My favorite way to consume Pocket articles is with the Android app on a [Boyue L
 I'm also one of the maintainers of the [pocket-ruby](https://github.com/turadg/pocket-ruby) API client.
 For full transparency, I am also building a commercial product relating to Pocket (not yet released).
 
-## Related and Similar Projects
+## Related and Similar Open Source Projects
 
 * https://github.com/wallabag/wallabag (PHP) (formerly known as Poche)
 * https://github.com/ArchiveBox/ArchiveBox (Python)
@@ -73,3 +73,7 @@ For full transparency, I am also building a commercial product relating to Pocke
 * https://github.com/cleverdevil/indiepaper (Python) (last updated in 2018)
 * https://github.com/zhy0216/OhMyPocket (Python) (last updated in 2016)
 * https://github.com/kavinderd/icebox (Ruby) (last updated since 2015)
+
+## Related and Similar Open Source Products
+
+* [Readwise Reader](https://readwise.io/read) ([announcement blog post](https://blog.readwise.io/the-next-chapter-of-reader-public-beta/))
