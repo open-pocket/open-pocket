@@ -73,6 +73,7 @@ For full transparency, I am also building a commercial product relating to Pocke
 * https://github.com/cleverdevil/indiepaper (Python) (last updated in 2018)
 * https://github.com/zhy0216/OhMyPocket (Python) (last updated in 2016)
 * https://github.com/kavinderd/icebox (Ruby) (last updated since 2015)
+* https://omnivore.app
 
 ## Related and Similar Open Source Products
 
