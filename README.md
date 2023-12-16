@@ -75,6 +75,6 @@ For full transparency, I am also building a commercial product relating to Pocke
 * https://github.com/kavinderd/icebox (Ruby) (last updated since 2015)
 * https://omnivore.app
 
-## Related and Similar Open Source Products
+## Related and Similar Commercial Products
 
 * [Readwise Reader](https://readwise.io/read) ([announcement blog post](https://blog.readwise.io/the-next-chapter-of-reader-public-beta/))
