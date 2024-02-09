@@ -66,11 +66,11 @@ For full transparency, I am also building a commercial product relating to Pocke
 
 ## Related and Similar Open Source Projects
 
-* https://github.com/omnivore-app/omnivore (https://omnivore.app)
+* https://github.com/omnivore-app/omnivore (Node) https://omnivore.app
 * https://github.com/wallabag/wallabag (PHP) (formerly known as Poche)
 * https://github.com/ArchiveBox/ArchiveBox (Python)
-* ~https://github.com/burtonator/polar-bookshelf (last updated in 2021)~
 * https://github.com/go-shiori/shiori (Go)
+* ~https://github.com/burtonator/polar-bookshelf (last updated in 2021)~
 * https://github.com/cleverdevil/indiepaper (Python) (last updated in 2018)
 * https://github.com/zhy0216/OhMyPocket (Python) (last updated in 2016)
 * https://github.com/kavinderd/icebox (Ruby) (last updated since 2015)
