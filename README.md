@@ -59,10 +59,12 @@ The following projects have already been open-sourced. (This list excludes infra
 
 ## Background
 
-Open Pocket was founded by [@andyw8](https://github.com/andyw8), a long-term fan of Pocket, and a Premium subscriber since 2014.
+Open Pocket was founded by [@andyw8](https://github.com/andyw8). I was a long-term fan of Pocket. and a Premium subscriber from 2014 to 2023.
 My favorite way to consume Pocket articles is with the Android app on a [Boyue Likebook](https://twitter.com/BoyueTechnology) e-reader.
 I'm also one of the maintainers of the [pocket-ruby](https://github.com/turadg/pocket-ruby) API client.
 For full transparency, I am also building a commercial product relating to Pocket (not yet released).
+
+Update (2024): I'm no longer working on my own product since [Readwise Reader](https://readwise.io/read) is a very promising successor to Pocket.
 
 ## Related and Similar Open Source Projects
 
