@@ -50,6 +50,7 @@ The following projects have already been open-sourced. (This list excludes infra
 * https://github.com/Pocket/proxy-server Service to deliver sponsored content while preserving privacy
 * https://github.com/Pocket/recommendation-api Rank and serve recommendations
 * https://github.com/Pocket/pocket-ios This appears to be the Pocket iOS app but there no is no README or description yet and it does not seem possible to build.
+* https://github.com/Pocket/pocket-monorepo "This repo contains all the Pocket Typescript systems built as a monorepo but deployed as microservices."
 
 ## Legal
 
