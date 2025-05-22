@@ -1,5 +1,11 @@
 # Open Pocket
 
+## Update: Pocket is shutting down on July 8, 2025
+
+[Pocket is Saying Goodbye: What You Need to Know](https://support.mozilla.org/en-US/kb/future-of-pocket)
+
+There is no mention if any other part of the codebase will be open-sourced.
+
 ## Background
 
 [Pocket](https://en.wikipedia.org/wiki/Pocket_(service)), previously known as Read It Later, is an application and web service for managing a reading list of articles and videos from the Internet.
