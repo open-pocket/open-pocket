@@ -75,8 +75,8 @@ Update (2024): I'm no longer working on my own product since [Readwise Reader](h
 
 ## Related and Similar Open Source Projects
 
-* https://github.com/omnivore-app/omnivore (Node) https://omnivore.app
-  * Note: [Omnivore is joining ElevenLabs](https://blog.omnivore.app/p/omnivore-is-joining-elevenlabs)
+* https://github.com/omnivore-app/omnivore (Node)
+  * The company [shut down after joining ElevenLabs](https://web.archive.org/web/20250428194155/https://blog.omnivore.app/p/details-on-omnivore-shutting-down) but the open source version is still active.
 * https://github.com/wallabag/wallabag (PHP) (formerly known as Poche)
 * https://github.com/ArchiveBox/ArchiveBox (Python)
 * https://github.com/go-shiori/shiori (Go)
