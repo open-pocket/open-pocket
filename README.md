@@ -6,6 +6,10 @@
 
 There is no mention if any other part of the codebase will be open-sourced.
 
+## Recent Discussions
+
+[Ask HN: What Pocket alternatives did you move to?](https://news.ycombinator.com/item?id=44597668)
+
 ## Background
 
 [Pocket](https://en.wikipedia.org/wiki/Pocket_(service)), previously known as Read It Later, is an application and web service for managing a reading list of articles and videos from the Internet.
